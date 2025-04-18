@@ -1,0 +1,12 @@
+CheckpointsMNIST/50epoch.pt
+CheckpointsMNIST/200epoch.pt
+MNIST_ds/MNIST/raw/t10k-images-idx3-ubyte
+MNIST_ds/MNIST/raw/t10k-images-idx3-ubyte.gz
+MNIST_ds/MNIST/raw/t10k-labels-idx1-ubyte
+MNIST_ds/MNIST/raw/t10k-labels-idx1-ubyte.gz
+MNIST_ds/MNIST/raw/train-images-idx3-ubyte
+MNIST_ds/MNIST/raw/train-images-idx3-ubyte.gz
+MNIST_ds/MNIST/raw/train-labels-idx1-ubyte
+MNIST_ds/MNIST/raw/train-labels-idx1-ubyte.gz
+SampledImgsMNIST/NoisyNoGuidenceImgs199.png
+SampledImgsMNIST/SampledNoGuidenceImgs199.png
