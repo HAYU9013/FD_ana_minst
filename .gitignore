@@ -10,3 +10,4 @@ MNIST_ds/MNIST/raw/train-labels-idx1-ubyte
 MNIST_ds/MNIST/raw/train-labels-idx1-ubyte.gz
 SampledImgsMNIST/NoisyNoGuidenceImgs199.png
 SampledImgsMNIST/SampledNoGuidenceImgs199.png
+experiment_data_big_different.pkl
